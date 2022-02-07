@@ -23,7 +23,7 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- [Objects](./4-objects)
+- [Objects](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-VI/tree/main/Exercise)
 
 ## Thinking about JavaScript
 
